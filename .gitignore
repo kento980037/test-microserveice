@@ -29,3 +29,9 @@ project/db-data
 
 # frontApp binary data
 front-end/frontApp
+
+# brokerApp binary data
+broker-service/brokerApp
+
+# authApp binary data
+authentication-service/authApp
